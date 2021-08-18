@@ -1,2 +1,2 @@
-# superhero-api
-Teste - Front-End Software Engineer 
+# Superhero-api
+Teste - Front-End Software Engineer da Sami
